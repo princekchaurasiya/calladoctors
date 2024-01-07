@@ -3025,3 +3025,13 @@ section {
 	font-weight: 800;
 
 }
+
+.testimonial-link{
+	color: #010483;
+}
+
+.info .address a{
+	padding: 1rem;
+	font-weight: bold;
+	font-size: 1rem;
+}
