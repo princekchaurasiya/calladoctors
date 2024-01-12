@@ -15,7 +15,7 @@
    <!-- End Google Tag Manager -->
    <meta charset="utf-8">
    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-   <title>Home Visit Doctors In Andheri – Calladoctors</title>
+   <title>Home Visit Doctors In Santacruz – Calladoctors</title>
    <meta name="description" content="Doctor on call for home visit calladoctors | calladoctors.in.">
    <meta content="" name="Doctor on call for home visit | doctor on call">
    <!-- Favicons -->
@@ -48,7 +48,7 @@
       <div class="container d-flex align-items-center justify-content-between">
          <div class="logo">
             <!-- <h1><a href="index.html"><span><img src="assets/img/logo.png" alt="Doctor on call for home Visit calladoctors"></span></a></h1> -->
-            <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
+            <a href="index.php"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
          </div>
          <nav id="navbar" class="navbar">
             <ul>
@@ -133,7 +133,7 @@
          <div class="container-fluid">
             <div class="row justify-content-center text-center">
                <div class="col-lg-8 icon-boxes d-flex flex-column align-items-stretch ">
-                  <h3>Our Doctor for Home Visit Services in Andheri</h3>
+                  <h3>Our Doctor for Home Visit Services in Santacruz</h3>
                </div>
             </div>
             <div class="row justify-content-center">
@@ -222,22 +222,24 @@
          <div class="container-fluid">
             <div class="row justify-content-center text-center">
                <div class="col-lg-8 icon-boxes d-flex flex-column align-items-stretch ">
-                  <h3>The Need for Home Visit Doctors in Andheri</h3>
-                  <p>In the bustling city of Andheri, the need for home visit doctors has become increasingly essential.
+                  <h3>The Need for Home Visit Doctors in Santacruz</h3>
+                  <p>In the bustling city of Santacruz, the need for home visit doctors has become increasingly
+                     essential.
                      From addressing the unavailability of family doctors to navigating through the notorious traffic,
                      these healthcare professionals play a crucial role in ensuring timely and convenient medical care.
-                     This article explores the reasons why home visit doctors are needed in Andheri and provides guidance
+                     This article explores the reasons why home visit doctors are needed in Santacruz and provides
+                     guidance
                      on choosing the right one for your health needs.
                   </p>
-                  <h3>Why Home Visit Doctors Are Essential in Andheri?</h3>
+                  <h3>Why Home Visit Doctors Are Essential in Santacruz?</h3>
 
                   <h5>Unavailability of Family Doctors:</h5>
                   <p>In the event of a medical emergency, the absence of a family doctor may leave you in search of an
                      alternative. Home visit doctors act as a lifeline, providing accessible healthcare precisely when
                      it is needed the most.</p>
 
-                  <h5>Beating the Andheri Traffic:</h5>
-                  <p>Navigating through the congested streets of Andheri, particularly during emergencies, can be a
+                  <h5>Beating the Santacruz Traffic:</h5>
+                  <p>Navigating through the congested streets of Santacruz, particularly during emergencies, can be a
                      formidable challenge. Doctor on Call services and home visit doctors offer respite from the city's
                      notorious traffic, ensuring prompt medical attention right at your doorstep.</p>
 
@@ -251,7 +253,7 @@
                      services connect patients with healthcare professionals promptly, addressing emergencies without
                      the need for prolonged waiting.</p>
 
-                  <h3>Factors to Consider When Selecting a Home Visit Doctor in Andheri:</h3>
+                  <h3>Factors to Consider When Selecting a Home Visit Doctor in Santacruz:</h3>
 
                   <h5>Specialization:</h5>
                   <p>While seeking a home visit doctor, ensure their specialization aligns with your medical condition.
@@ -271,7 +273,7 @@
                   <p>Review the qualifications of potential home visit doctors to ensure they are well-equipped to
                      address your specific healthcare needs with expertise and competence.</p>
 
-                  <h3>Benefits of Seeking Help from a Home Visit Doctor in Andheri:</h3>
+                  <h3>Benefits of Seeking Help from a Home Visit Doctor in Santacruz:</h3>
 
                   <h5>Tackling Emergencies:</h5>
                   <p>Home visit doctors and Doctor on Call services facilitate immediate access to medical
@@ -290,7 +292,8 @@
                      treatment plan within the comfort of your home.</p>
 
                   <h5>The Utmost Comfort:</h5>
-                  <p>Patients in Andheri can now experience medical care in the familiarity of their own rooms, thanks to
+                  <p>Patients in Santacruz can now experience medical care in the familiarity of their own rooms, thanks
+                     to
                      the dedicated services of home visit doctors.</p>
                </div>
             </div>
@@ -313,7 +316,11 @@
                   <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid" width="20px"></span>
                   <span><img src="assets/img/star.png" alt="" class="img-fluid" width="20px"></span>
                   <span><img src="assets/img/star.png" alt="" class="img-fluid" width="20px"></span>
-                  <p class="quote">"Great experience as a first-timer. I barely waited to be helped when I checked in. The staff and Dr. Gufran were all very friendly and helpful. I especially loved how Dr. Gufran really took his time to explain my conditions with me as well as my treatment options. If you're looking for a <a href="./mumbai.html"  class="testimonial-link" target="_blank" rel="noopener noreferrer">doctor for home visit in Mumbai</a>, I highly recommend them."</p>
+                  <p class="quote">"Great experience as a first-timer. I barely waited to be helped when I checked in.
+                     The staff and Dr. Gufran were all very friendly and helpful. I especially loved how Dr. Gufran
+                     really took his time to explain my conditions with me as well as my treatment options. If you're
+                     looking for a <a href="./mumbai.php" class="testimonial-link" target="_blank"
+                        rel="noopener noreferrer">doctor for home visit in Mumbai</a>, I highly recommend them."</p>
                   <h5>-Amarlal Yadav</h5>
                </div>
                <div class="col-lg-3 col-md-4 mt-4">
@@ -516,7 +523,7 @@
                      <div class="address">
                         <i class="bi bi-geo-alt"></i>
                         <h4>Location:</h4>
-                        <p>Shop No. 7 Ground Floor, Okaz Shopping Center, Millat Nagar Rd, Andheri West, Andheri,
+                        <p>Shop No. 7 Ground Floor, Okaz Shopping Center, Millat Nagar Rd, Santacruz West, Santacruz,
                            Maharashtra 400053</p>
                      </div>
                      <!-- <div class="phone">
@@ -554,42 +561,42 @@
                <div class="col-lg-4 mt-2" data-aos="fade-right" data-aos-delay="100">
                   <div class="info">
                      <div class="address">
-                        <a href="/mumbai.html" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
-                           class="bi bi-geo-alt"></i>Doctor for home visit in Mumbai</a>
+                        <a href="/mumbai.php" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
+                              class="bi bi-geo-alt"></i>Doctor for home visit in Mumbai</a>
                      </div>
                   </div>
                   <div class="info">
                      <div class="address mt-5">
-                        <a href="/jogeshwari.html" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
-                           class="bi bi-geo-alt"></i>Doctor for home visit in Jogeshwari</a>
+                        <a href="/jogeshwari.php" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
+                              class="bi bi-geo-alt"></i>Doctor for home visit in Jogeshwari</a>
                      </div>
                   </div>
                </div>
                <div class="col-lg-4 mt-2" data-aos="fade-right" data-aos-delay="100">
                   <div class="info">
                      <div class="address">
-                        <a href="/andheri.html" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
-                           class="bi bi-geo-alt"></i>Doctor for home visit in Andheri</a>
+                        <a href="/andheri.php" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
+                              class="bi bi-geo-alt"></i>Doctor for home visit in Andheri</a>
                      </div>
                   </div>
                   <div class="info">
                      <div class="address mt-5">
-                        <a href="/malad.html" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
-                           class="bi bi-geo-alt"></i>Doctor for home visit in Malad</a>
+                        <a href="/malad.php" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
+                              class="bi bi-geo-alt"></i>Doctor for home visit in Malad</a>
                      </div>
                   </div>
                </div>
                <div class="col-lg-4 mt-2" data-aos="fade-right" data-aos-delay="100">
                   <div class="info">
                      <div class="address">
-                        <a href="/goregaon.html" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
-                           class="bi bi-geo-alt"></i>Doctor for home visit in Goregaon</a>
+                        <a href="/goregaon.php" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
+                              class="bi bi-geo-alt"></i>Doctor for home visit in Goregaon</a>
                      </div>
                   </div>
                   <div class="info">
                      <div class="address mt-5">
-                        <a href="/santacruz.html" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
-                           class="bi bi-geo-alt"></i>Doctor for home visit in Santacruz</a>
+                        <a href="/santacruz.php" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
+                              class="bi bi-geo-alt"></i>Doctor for home visit in Santacruz</a>
                      </div>
                   </div>
                </div>
@@ -607,7 +614,7 @@
                   <div class="footer-info">
                      <h3 class="pb-3"><em>Address</em></h3>
                      <p>
-                        Shop No. 7 Ground Floor, Okaz Shopping Center, Millat Nagar Rd, Andheri West, Andheri,
+                        Shop No. 7 Ground Floor, Okaz Shopping Center, Millat Nagar Rd, Santacruz West, Santacruz,
                         Maharashtra 400053<br><br>
                         <strong>Phone: </strong> <a href="tel: +918657965005" class="btn-get-started">
                            <b>+918657965005</b></a><br>

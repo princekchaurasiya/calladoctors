@@ -48,7 +48,7 @@
       <div class="container d-flex align-items-center justify-content-between">
          <div class="logo">
             <!-- <h1><a href="index.html"><span><img src="assets/img/logo.png" alt="Doctor on call for home Visit calladoctors"></span></a></h1> -->
-            <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
+            <a href="index.php"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
          </div>
          <nav id="navbar" class="navbar">
             <ul>
@@ -313,7 +313,7 @@
                   <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid" width="20px"></span>
                   <span><img src="assets/img/star.png" alt="" class="img-fluid" width="20px"></span>
                   <span><img src="assets/img/star.png" alt="" class="img-fluid" width="20px"></span>
-                  <p class="quote">"Great experience as a first-timer. I barely waited to be helped when I checked in. The staff and Dr. Gufran were all very friendly and helpful. I especially loved how Dr. Gufran really took his time to explain my conditions with me as well as my treatment options. If you're looking for a <a href="./mumbai.html"  class="testimonial-link" target="_blank" rel="noopener noreferrer">doctor for home visit in Mumbai</a>, I highly recommend them."</p>
+                  <p class="quote">"Great experience as a first-timer. I barely waited to be helped when I checked in. The staff and Dr. Gufran were all very friendly and helpful. I especially loved how Dr. Gufran really took his time to explain my conditions with me as well as my treatment options. If you're looking for a <a href="./mumbai.php"  class="testimonial-link" target="_blank" rel="noopener noreferrer">doctor for home visit in Mumbai</a>, I highly recommend them."</p>
                   <h5>-Amarlal Yadav</h5>
                </div>
                <div class="col-lg-3 col-md-4 mt-4">
@@ -554,13 +554,13 @@
                <div class="col-lg-4 mt-2" data-aos="fade-right" data-aos-delay="100">
                   <div class="info">
                      <div class="address">
-                        <a href="/mumbai.html" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
+                        <a href="/mumbai.php" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
                            class="bi bi-geo-alt"></i>Doctor for home visit in Mumbai</a>
                      </div>
                   </div>
                   <div class="info">
                      <div class="address mt-5">
-                        <a href="/jogeshwari.html" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
+                        <a href="/jogeshwari.php" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
                            class="bi bi-geo-alt"></i>Doctor for home visit in Jogeshwari</a>
                      </div>
                   </div>
@@ -568,13 +568,13 @@
                <div class="col-lg-4 mt-2" data-aos="fade-right" data-aos-delay="100">
                   <div class="info">
                      <div class="address">
-                        <a href="/andheri.html" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
+                        <a href="/andheri.php" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
                            class="bi bi-geo-alt"></i>Doctor for home visit in Andheri</a>
                      </div>
                   </div>
                   <div class="info">
                      <div class="address mt-5">
-                        <a href="/malad.html" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
+                        <a href="/malad.php" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
                            class="bi bi-geo-alt"></i>Doctor for home visit in Malad</a>
                      </div>
                   </div>
@@ -582,13 +582,13 @@
                <div class="col-lg-4 mt-2" data-aos="fade-right" data-aos-delay="100">
                   <div class="info">
                      <div class="address">
-                        <a href="/goregaon.html" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
+                        <a href="/goregaon.php" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
                            class="bi bi-geo-alt"></i>Doctor for home visit in Goregaon</a>
                      </div>
                   </div>
                   <div class="info">
                      <div class="address mt-5">
-                        <a href="/santacruz.html" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
+                        <a href="/santacruz.php" target="_blank" rel="noopener noreferrer" class="testimonial-link"><i
                            class="bi bi-geo-alt"></i>Doctor for home visit in Santacruz</a>
                      </div>
                   </div>
