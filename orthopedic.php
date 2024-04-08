@@ -125,7 +125,8 @@
                     <div class="col-lg-8 icon-boxes d-flex flex-column align-items-stretch ">
                         <h3>ABOUT US</h3>
                         <p>Orthopedic Care at Your Doorstep</p>
-                        <p>At calladoctor, our mission is to provide compassionate healthcare tailored to your orthopedic
+                        <p>At calladoctor, our mission is to provide compassionate healthcare tailored to your
+                            orthopedic
                             needs. We understand the importance of personalized, high-quality care, which is why we
                             bring our expertise directly to you.</p>
                         <h5>Expert Orthopedic Professionals</h5>
@@ -133,7 +134,8 @@
                             address your orthopedic concerns. Whether it's joint pain, fractures, or musculoskeletal
                             injuries, we provide individualized treatment plans to meet your unique needs.</p>
                         <h5>Dedicated to Your Well-being</h5>
-                        <p>With calladoctor, you can expect a personal approach to your orthopedic health. Our goal is not
+                        <p>With calladoctor, you can expect a personal approach to your orthopedic health. Our goal is
+                            not
                             only to treat your condition but also to empower you with knowledge about your orthopedic
                             health and wellness. Let us guide you on the journey to a pain-free, active lifestyle.</p>
                     </div>
@@ -152,114 +154,66 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-lg-10">
-                        <div class="row">
-                            <!DOCTYPE html>
-                            <html lang="en">
-                               <head>
-                                  <!-- Google Tag Manager -->
-                                  <script>(function (w, d, s, l, i) {
-                                     w[l] = w[l] || []; w[l].push({
-                                        'gtm.start':
-                                           new Date().getTime(), event: 'gtm.js'
-                                     }); var f = d.getElementsByTagName(s)[0],
-                                        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                                           'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-                                     })(window, document, 'script', 'dataLayer', 'GTM-PM4SJCN');
-                                  </script>
-                                  <!-- End Google Tag Manager -->
-                                  <meta charset="utf-8">
-                                  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-                                  <title>Call a Doctor For Home Visit in Mumbai Now | Home | Calladoctors</title>
-                            <meta name="description" content="Doctor on call for home visit in Mumbai at CallaDoctors. Providing quality healthcare services. Visit calladoctors.in.">
-                            <meta name="keywords" content="Doctor on call, home visit, doctor on call, Mumbai">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-3">
+                                <div class="inner-box">
+                                    <img src="assets/img/calladoctors-orthopedic-home-visit-1.jpg" alt=""
+                                        class="img-fluid">
+                                    <p class="text-center mt-2">Fracture Plaster</p>
+                                </div>
+                            </div>
+                            <div class="col-lg-3">
+                                <div class="inner-box">
+                                    <img src="assets/img/calladoctors-orthopedic-home-visit-12.jpg"
+                                        alt="Knee Replacement Surgery" class="img-fluid"
+                                        title="Knee Replacement Surgery">
+                                    <p class="text-center mt-2">Knee Replacement </p>
+                                </div>
+                            </div>
 
-                            <!-- Favicons -->
-                                  <link href="assets/img/favicon.png" rel="icon">
-                                  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-                                  <!-- Google Fonts -->
-                                  <link
-                                     href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
-                                     rel="stylesheet">
-                                  <!-- Vendor CSS Files -->
-                                  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-                                  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-                                  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-                                  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-                                  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-                                  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
-                                  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-                                  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-                                  <!-- Template Main CSS File -->
-                                  <link href="assets/css/style.css" rel="stylesheet">
-                               </head>
-                                   <div class="col-lg-3">
-                        <div class="inner-box">
-                           <img src="assets/img/calladoctors-orthopedic-home-visit-1.jpg" alt="" class="img-fluid">
-                           <p class="text-center mt-2">Nebulisation</p>
-                        </div>
-                     </div>
-                     <div class="col-lg-3">
-                        <div class="inner-box">
-                           <img src="assets/img/calladoctors-orthopedic-home-visit-2.jpg" alt="" class="img-fluid">
-                           <p class="text-center mt-2">Sugar Check</p>
-                        </div>
-                     </div>
+
                             <div class="col-lg-3">
                                 <div class="inner-box">
-                                    <img src="assets/img/calladoctors-orthopedic-home-visit-3.jpg" alt="" class="img-fluid">
-                                    <p class="text-center mt-2">Injection</p>
+                                    <img src="assets/img/calladoctors-orthopedic-home-visit-13.jpg"
+                                        alt="Hip Replacement Surgery" class="img-fluid"
+                                        title="Hip Replacement Surgery">
+                                    <p class="text-center mt-2">Hip Replacement </p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="inner-box">
-                                    <img src="assets/img/calladoctors-orthopedic-home-visit-4.jpg" alt="" class="img-fluid">
-                                    <p class="text-center mt-2">Dressing / Wound Care</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row justify-content-center">
-                            <div class="col-lg-3">
-                                <div class="inner-box">
-                                    <img src="assets/img/calladoctors-orthopedic-home-visit-5.jpg" alt="" class="img-fluid">
-                                    <p class="text-center mt-2">Severe Abdomain Pain</p>
+                                    <img src="assets/img/calladoctors-orthopedic-home-visit-14.jpg"
+                                        alt="Knee Arthroscopy" class="img-fluid" title="Knee Arthroscopy">
+                                    <p class="text-center mt-2">Knee Arthroscopy</p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="inner-box">
-                                    <img src="assets/img/calladoctors-orthopedic-home-visit-6.jpg" alt="" class="img-fluid">
-                                    <p class="text-center mt-2">Shivering</p>
+                                    <img src="assets/img/calladoctors-orthopedic-home-visit-15.jpg"
+                                        alt="Lizarrov Fixation" class="img-fluid" title="Lizarrov Fixation">
+                                    <p class="text-center mt-2">Lizarrov Fixation</p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="inner-box">
-                                    <img src="assets/img/calladoctors-orthopedic-home-visit-7.jpg" alt="" class="img-fluid">
-                                    <p class="text-center mt-2">High Grade Fever</p>
+                                    <img src="assets/img/calladoctors-orthopedic-home-visit-16.jpg"
+                                        alt="Fracture Surgery" class="img-fluid" title="Fracture Surgery">
+                                    <p class="text-center mt-2">Fracture Surgery</p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="inner-box">
-                                    <img src="assets/img/calladoctors-orthopedic-home-visit-8.jpg" alt="" class="img-fluid">
-                                    <p class="text-center mt-2">IV Fluid</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row justify-content-center">
-                            <div class="col-lg-3">
-                                <div class="inner-box">
-                                    <img src="assets/img/calladoctors-orthopedic-home-visit-9.jpg" alt="" class="img-fluid">
-                                    <p class="text-center mt-2">Small Stitches</p>
+                                    <img src="assets/img/calladoctors-orthopedic-home-visit-17.jpg"
+                                        alt="Shoulder Surgery" class="img-fluid" title="Shoulder Surgery">
+                                    <p class="text-center mt-2">Shoulder Surgery</p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="inner-box">
-                                    <img src="assets/img/calladoctors-orthopedic-home-visit-10.jpg" alt="" class="img-fluid">
-                                    <p class="text-center mt-2">Urethral Catheterisation</p>
-                                </div>
-                            </div>
-                            <div class="col-lg-3">
-                                <div class="inner-box">
-                                    <img src="assets/img/calladoctors-orthopedic-home-visit-11.jpg" alt="" class="img-fluid">
-                                    <p class="text-center mt-2">Consulting at Home</p>
+                                    <img src="assets/img/calladoctors-orthopedic-home-visit-18.jpg"
+                                        alt="Spine Seplacement Surgery" class="img-fluid"
+                                        title="Spine Seplacement Surgery">
+                                    <p class="text-center mt-2">Spine Seplacement</p>
                                 </div>
                             </div>
                         </div>
