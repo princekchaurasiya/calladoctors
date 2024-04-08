@@ -72,11 +72,11 @@
                   <div data-aos="zoom-out">
                      <h1>When you're sick, <br><span>We're here</span></h1>
                      <h2>Take care of your health with us</h2>
-                     <div class="text-center text-lg-start">
+                     <div class="text-left text-lg-start">
                         <a href="tel: +918657965005" class="btn-get-started">Call Now for Home Visit</a>
                      </div>
                      <!-- <div><br></div>
-                        <div class="text-center text-lg-start">
+                        <div class="text-left text-lg-start">
                           <a href="tel: +918446304550" class="btn-get-started">Call Now +918446304550 </a>
                         </div> -->
                   </div>

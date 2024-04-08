@@ -82,13 +82,13 @@
                     <div data-aos="zoom-out">
                         <h1>When your joints ache, <br><span>We'll come to you</span></h1>
                         <h2>Expert orthopedic care at your doorstep</h2>
-                        <div class="text-center text-lg-start">
-                            <a href="tel: +918657965005" class="btn-get-started">Call Now for Consultation</a>
+                        <div class="text-left text-lg-start">
+                            <a href="tel: +918657965005" class="btn-get-started">Book an Appointment</a>
                         </div>
                     </div>
 
                     <!-- <div><br></div>
-                        <div class="text-center text-lg-start">
+                        <div class="text-left text-lg-start">
                           <a href="tel: +918446304550" class="btn-get-started">Call Now +918446304550 </a>
                         </div> -->
                 </div>
@@ -117,6 +117,39 @@
         </svg>
     </section>
     <!-- End Hero -->
+
+
+    <section class="form-enquiry mt-5">
+        <div class="container">
+
+            <div class="row justify-content-center p-4">
+
+                <div class="col-lg-6 col-10 formrow p-4">
+                    <h2>Book an Appointment</h2>
+                    <form action="submit_form.php" method="get">
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="name" name="entry.1550794543"
+                                placeholder="Name*">
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="phone" name="entry.1137748630"
+                                placeholder="Mobile Number*">
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="city" name="entry.1483314809"
+                                placeholder="City*">
+                        </div>
+
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
     <main id="main">
         <!-- ======= About Section ======= -->
         <section id="about" class="about">
@@ -170,8 +203,6 @@
                                     <p class="text-center mt-2">Knee Replacement </p>
                                 </div>
                             </div>
-
-
                             <div class="col-lg-3">
                                 <div class="inner-box">
                                     <img src="assets/img/calladoctors-orthopedic-home-visit-13.jpg"
@@ -191,7 +222,7 @@
                                 <div class="inner-box">
                                     <img src="assets/img/calladoctors-orthopedic-home-visit-15.jpg"
                                         alt="Lizarrov Fixation" class="img-fluid" title="Lizarrov Fixation">
-                                    <p class="text-center mt-2">Lizarrov Fixation</p>
+                                    <p class="text-center mt-2">Ilizarov Fixation</p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
