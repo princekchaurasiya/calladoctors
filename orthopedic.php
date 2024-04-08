@@ -24,7 +24,7 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <title>Call Orthopedic Doctor Home Visit in Mumbai Now | Calladoctors</title>
     <meta name="description"
-        content="orthopedic  Doctor on call for home visit in Mumbai at CallaDoctors. Providing quality healthcare services. Visit calladoctors.in.">
+        content="orthopedic consultation in Mumbai at CallaDoctors. Providing quality healthcare services. Visit calladoctors.in.">
     <meta name="keywords" content="Doctor on call, home visit, doctor on call, Mumbai">
 
     <!-- Favicons -->
@@ -83,7 +83,7 @@
                         <h1>When your joints ache, <br><span>We'll come to you</span></h1>
                         <h2>Expert orthopedic care at your doorstep</h2>
                         <div class="text-center text-lg-start">
-                            <a href="tel: +918657965005" class="btn-get-started">Call Now for Home Visit</a>
+                            <a href="tel: +918657965005" class="btn-get-started">Call Now for Consultation</a>
                         </div>
                     </div>
 
@@ -149,7 +149,7 @@
             <div class="container-fluid">
                 <div class="row justify-content-center text-center">
                     <div class="col-lg-8 icon-boxes d-flex flex-column align-items-stretch ">
-                        <h3>Our Home Visit Services</h3>
+                        <h3>Emergency Orthopaedic Doctor Home Visit Consulting</h3>
                     </div>
                 </div>
                 <div class="row justify-content-center">
