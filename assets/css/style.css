@@ -3100,3 +3100,17 @@ section {
 	margin-bottom: 1rem;
 	padding: 0.1rem;
   }
+
+  .absolutetexttop {
+    letter-spacing: 1px;
+    font-size: 12px;
+    /* position: absolute; */
+    line-height: 100%;
+    top: 0;
+    right: 1rem;
+    padding: 0.5rem;
+    text-shadow: 1px 1px 10px #000000;
+    color: #000;
+    text-align: left;
+    font-family: 'Source Sans Pro';
+}

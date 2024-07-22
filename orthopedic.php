@@ -4,7 +4,7 @@
 <head>
     <!-- Google Tag Manager -->
     <script>
-        (function(w, d, s, l, i) {
+        (function (w, d, s, l, i) {
             w[l] = w[l] || [];
             w[l].push({
                 'gtm.start': new Date().getTime(),
@@ -121,31 +121,33 @@
 
     <section class="form-enquiry mt-5">
         <div class="container">
-
             <div class="row justify-content-center p-4">
-
                 <div class="col-lg-6 col-10 formrow p-4">
                     <h2>Book an Appointment</h2>
-                    <form action="submit_form.php" method="get">
+                    <form action="contact.php" method="get">
                         <div class="form-group">
-                            <input type="text" class="form-control" id="name" name="entry.1550794543"
-                                placeholder="Name*">
+                            <input type="text" class="form-control" id="name" name="namef1" placeholder="Name*" required>
                         </div>
                         <div class="form-group">
-                            <input type="text" class="form-control" id="phone" name="entry.1137748630"
-                                placeholder="Mobile Number*">
+                            <input type="email" class="form-control" id="email" name="emailf1" placeholder="Email*" required>
                         </div>
                         <div class="form-group">
-                            <input type="text" class="form-control" id="city" name="entry.1483314809"
-                                placeholder="City*">
+                            <input type="tel" class="form-control" id="phone" name="phonef1" placeholder="Mobile Number*" required>
                         </div>
-
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="city" name="cityf1" placeholder="City*" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="message" name="messagef1" placeholder="Problem the Patient has right Now/ History of Patients*" required>
+                        </div>
                         <button type="submit" class="btn btn-primary">Submit</button>
                     </form>
                 </div>
             </div>
         </div>
     </section>
+
+
 
 
 
@@ -190,6 +192,7 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-3">
                                 <div class="inner-box">
+                                    <div class="absolutetexttop">Representative Image</div>
                                     <img src="assets/img/calladoctors-orthopedic-home-visit-1.jpg" alt=""
                                         class="img-fluid">
                                     <p class="text-center mt-2">Fracture Plaster</p>
@@ -197,6 +200,7 @@
                             </div>
                             <div class="col-lg-3">
                                 <div class="inner-box">
+                                    <div class="absolutetexttop">Representative Image</div>
                                     <img src="assets/img/calladoctors-orthopedic-home-visit-12.jpg"
                                         alt="Knee Replacement Surgery" class="img-fluid"
                                         title="Knee Replacement Surgery">
@@ -205,14 +209,15 @@
                             </div>
                             <div class="col-lg-3">
                                 <div class="inner-box">
+                                    <div class="absolutetexttop">Representative Image</div>
                                     <img src="assets/img/calladoctors-orthopedic-home-visit-13.jpg"
-                                        alt="Hip Replacement Surgery" class="img-fluid"
-                                        title="Hip Replacement Surgery">
+                                        alt="Hip Replacement Surgery" class="img-fluid" title="Hip Replacement Surgery">
                                     <p class="text-center mt-2">Hip Replacement </p>
                                 </div>
                             </div>
                             <div class="col-lg-3">
                                 <div class="inner-box">
+                                    <div class="absolutetexttop">Representative Image</div>
                                     <img src="assets/img/calladoctors-orthopedic-home-visit-14.jpg"
                                         alt="Knee Arthroscopy" class="img-fluid" title="Knee Arthroscopy">
                                     <p class="text-center mt-2">Knee Arthroscopy</p>
@@ -220,6 +225,7 @@
                             </div>
                             <div class="col-lg-3">
                                 <div class="inner-box">
+                                    <div class="absolutetexttop">Representative Image</div>
                                     <img src="assets/img/calladoctors-orthopedic-home-visit-15.jpg"
                                         alt="Lizarrov Fixation" class="img-fluid" title="Lizarrov Fixation">
                                     <p class="text-center mt-2">Ilizarov Fixation</p>
@@ -227,6 +233,7 @@
                             </div>
                             <div class="col-lg-3">
                                 <div class="inner-box">
+                                    <div class="absolutetexttop">Representative Image</div>
                                     <img src="assets/img/calladoctors-orthopedic-home-visit-16.jpg"
                                         alt="Fracture Surgery" class="img-fluid" title="Fracture Surgery">
                                     <p class="text-center mt-2">Fracture Surgery</p>
@@ -234,6 +241,7 @@
                             </div>
                             <div class="col-lg-3">
                                 <div class="inner-box">
+                                    <div class="absolutetexttop">Representative Image</div>
                                     <img src="assets/img/calladoctors-orthopedic-home-visit-17.jpg"
                                         alt="Shoulder Surgery" class="img-fluid" title="Shoulder Surgery">
                                     <p class="text-center mt-2">Shoulder Surgery</p>
@@ -241,6 +249,7 @@
                             </div>
                             <div class="col-lg-3">
                                 <div class="inner-box">
+                                    <div class="absolutetexttop">Representative Image</div>
                                     <img src="assets/img/calladoctors-orthopedic-home-visit-18.jpg"
                                         alt="Spine Seplacement Surgery" class="img-fluid"
                                         title="Spine Seplacement Surgery">
@@ -262,12 +271,9 @@
                 </div>
                 <div class="row justify-content-center" data-aos="fade-left">
                     <div class="col-lg-3 col-md-4 mt-4">
-                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid"
-                                width="20px"></span>
-                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid"
-                                width="20px"></span>
-                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid"
-                                width="20px"></span>
+                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid" width="20px"></span>
+                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid" width="20px"></span>
+                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid" width="20px"></span>
                         <span><img src="assets/img/star.png" alt="" class="img-fluid" width="20px"></span>
                         <span><img src="assets/img/star.png" alt="" class="img-fluid" width="20px"></span>
                         <p class="quote">"Great experience as a first-timer. I barely waited to be helped when I
@@ -282,26 +288,19 @@
                         <h5>- Amarlal Yadav</h5>
                     </div>
                     <div class="col-lg-3 col-md-4 mt-4">
-                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid"
-                                width="20px"></span>
-                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid"
-                                width="20px"></span>
-                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid"
-                                width="20px"></span>
-                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid"
-                                width="20px"></span>
+                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid" width="20px"></span>
+                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid" width="20px"></span>
+                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid" width="20px"></span>
+                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid" width="20px"></span>
                         <span><img src="assets/img/star.png" alt="" class="img-fluid" width="20px"></span>
                         <p class="mt-3">"Excellent Home Patient management, best home care , best bed ridden patient
                             care"</p>
                         <h5>-Pranay Sawant</h5>
                     </div>
                     <div class="col-lg-3 col-md-4 mt-4">
-                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid"
-                                width="20px"></span>
-                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid"
-                                width="20px"></span>
-                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid"
-                                width="20px"></span>
+                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid" width="20px"></span>
+                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid" width="20px"></span>
+                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid" width="20px"></span>
                         <span><img src="assets/img/star.png" alt="" class="img-fluid" width="20px"></span>
                         <span><img src="assets/img/star.png" alt="" class="img-fluid" width="20px"></span>
                         <p class="mt-3">"Dr. Gufran did a great job with my first ever health exam. He explained
@@ -311,16 +310,11 @@
                         <h5>-Prince Chaurasiya</h5>
                     </div>
                     <div class="col-lg-3 col-md-4 mt-4">
-                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid"
-                                width="20px"></span>
-                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid"
-                                width="20px"></span>
-                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid"
-                                width="20px"></span>
-                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid"
-                                width="20px"></span>
-                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid"
-                                width="20px"></span>
+                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid" width="20px"></span>
+                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid" width="20px"></span>
+                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid" width="20px"></span>
+                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid" width="20px"></span>
+                        <span><img src="assets/img/star-yellow.png" alt="" class="img-fluid" width="20px"></span>
                         <p class="mt-3">"Dr. Gufran was terrific. Knowledgeable, sensitive, informative… I
                             immediately felt at
                             ease – and felt confident in my receiving expert medical care. Staff was great, too. Walked
@@ -538,6 +532,7 @@
                     <div class="col-lg-4 mt-2" data-aos="fade-right" data-aos-delay="100">
                         <div class="info">
                             <div class="address">
+
                                 <a href="/mumbai.php" target="_blank" rel="noopener noreferrer"
                                     class="testimonial-link"><i class="bi bi-geo-alt"></i>Doctor for home visit in
                                     Mumbai</a>
@@ -613,13 +608,18 @@
             </div>
         </div>
         <div class="container">
+
             <div class="copyright">
-                &copy; Copyright <strong><span>Al Shifa Clinic</span></strong>. All Rights Reserved
+               &copy; Copyright <strong><span>Al Shifa Clinic</span></strong>. All Rights Reserved
             </div>
             <div class="credits">
-                Designed & Developed by <a href="#">Prince Chaurasiya</a>
+               Designed & Developed by <a href="#">Prince Chaurasiya</a>
             </div>
-        </div>
+            <div class="credits">
+                <span>This website is managed by Al Shifa Clinic, and the owner is Dr. Gufran Khan. We provide home visit services. All images used here are for representation purposes only and do not belong to the actual image. Any data shared by you is not shared with any third party and is not used for marketing purposes.</span>
+            </div>
+
+         </div>
     </footer>
     <!-- End Footer -->
     <!--sticky mob-->

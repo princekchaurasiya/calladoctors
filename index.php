@@ -142,24 +142,28 @@
                      <div class="row">
                         <div class="col-lg-3">
                            <div class="inner-box">
+                              <div class="absolutetexttop">Representative Image</div>
                               <img src="assets/img/1.jpg" alt="" class="img-fluid">
                               <p class="text-center mt-2">Nebulisation</p>
                            </div>
                         </div>
                         <div class="col-lg-3">
                            <div class="inner-box">
+                              <div class="absolutetexttop">Representative Image</div>
                               <img src="assets/img/2.jpg" alt="" class="img-fluid">
                               <p class="text-center mt-2">Sugar Check</p>
                            </div>
                         </div>
                         <div class="col-lg-3">
                            <div class="inner-box">
+                              <div class="absolutetexttop">Representative Image</div>
                               <img src="assets/img/3.jpg" alt="" class="img-fluid">
                               <p class="text-center mt-2">Injection</p>
                            </div>
                         </div>
                         <div class="col-lg-3">
                            <div class="inner-box">
+                              <div class="absolutetexttop">Representative Image</div>
                               <img src="assets/img/4.jpg" alt="" class="img-fluid">
                               <p class="text-center mt-2">Dressing / Wound Care</p>
                            </div>
@@ -168,24 +172,28 @@
                      <div class="row justify-content-center">
                         <div class="col-lg-3">
                            <div class="inner-box">
+                              <div class="absolutetexttop">Representative Image</div>
                               <img src="assets/img/5.jpg" alt="" class="img-fluid">
                               <p class="text-center mt-2">Severe Abdomain Pain</p>
                            </div>
                         </div>
                         <div class="col-lg-3">
                            <div class="inner-box">
+                              <div class="absolutetexttop">Representative Image</div>
                               <img src="assets/img/6.jpg" alt="" class="img-fluid">
                               <p class="text-center mt-2">Shivering</p>
                            </div>
                         </div>
                         <div class="col-lg-3">
                            <div class="inner-box">
+                              <div class="absolutetexttop">Representative Image</div>
                               <img src="assets/img/7.jpg" alt="" class="img-fluid">
                               <p class="text-center mt-2">High Grade Fever</p>
                            </div>
                         </div>
                         <div class="col-lg-3">
                            <div class="inner-box">
+                              <div class="absolutetexttop">Representative Image</div>
                               <img src="assets/img/8.jpg" alt="" class="img-fluid">
                               <p class="text-center mt-2">IV Fluid</p>
                            </div>
@@ -194,18 +202,21 @@
                      <div class="row justify-content-center">
                         <div class="col-lg-3">
                            <div class="inner-box">
+                              <div class="absolutetexttop">Representative Image</div>
                               <img src="assets/img/9.jpg" alt="" class="img-fluid">
                               <p class="text-center mt-2">Small Stitches</p>
                            </div>
                         </div>
                         <div class="col-lg-3">
                            <div class="inner-box">
+                              <div class="absolutetexttop">Representative Image</div>
                               <img src="assets/img/10.jpg" alt="" class="img-fluid">
                               <p class="text-center mt-2">Urethral Catheterisation</p>
                            </div>
                         </div>
                         <div class="col-lg-3">
                            <div class="inner-box">
+                              <div class="absolutetexttop">Representative Image</div>
                               <img src="assets/img/11.jpg" alt="" class="img-fluid">
                               <p class="text-center mt-2">Consulting at Home</p>
                            </div>
@@ -548,12 +559,17 @@
             </div>
          </div>
          <div class="container">
+
             <div class="copyright">
                &copy; Copyright <strong><span>Al Shifa Clinic</span></strong>. All Rights Reserved
             </div>
             <div class="credits">
                Designed & Developed by <a href="#">Prince Chaurasiya</a>
             </div>
+            <div class="credits">
+               <span>This website is managed by Al Shifa Clinic, and the owner is Dr. Gufran Khan. We provide home visit services. All images used here are for representation purposes only and do not belong to the actual image. Any data shared by you is not shared with any third party and is not used for marketing purposes.</span>
+           </div>
+
          </div>
       </footer>
       <!-- End Footer -->
