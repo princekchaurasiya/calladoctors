@@ -105,6 +105,38 @@
       </svg>
    </section>
    <!-- End Hero -->
+
+   <section class="form-enquiry mt-5">
+      <div class="container">
+          <div class="row justify-content-center p-4">
+              <div class="col-lg-6 col-10 formrow p-4">
+                  <h2>Book an Appointment</h2>
+                  <form action="contact.php" method="get">
+                      <div class="form-group">
+                          <input type="text" class="form-control" id="name" name="namef1" placeholder="Name*" required>
+                      </div>
+                      <div class="form-group">
+                          <input type="email" class="form-control" id="email" name="emailf1" placeholder="Email*" required>
+                      </div>
+                      <div class="form-group">
+                          <input type="tel" class="form-control" id="phone" name="phonef1" placeholder="Mobile Number*" required>
+                      </div>
+                      <div class="form-group">
+                          <input type="text" class="form-control" id="city" name="cityf1" placeholder="City*" required>
+                      </div>
+                      <div class="form-group">
+                          <input type="text" class="form-control" id="message" name="messagef1" placeholder="Problem the Patient has right Now/ History of Patients*" required>
+                      </div>
+                      <button type="submit" class="btn btn-primary">Submit</button>
+                  </form>
+              </div>
+          </div>
+      </div>
+  </section>
+
+
+
+
    <main id="main">
       <!-- ======= About Section ======= -->
       <section id="about" class="about">
