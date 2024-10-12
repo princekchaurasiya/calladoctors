@@ -107,7 +107,7 @@
       </svg>
    </section>
    <!-- End Hero -->
-   <section class="form-enquiry mt-5">
+   <!-- <section class="form-enquiry mt-5">
       <div class="container">
          <div class="row justify-content-center p-4">
             <div class="col-lg-6 col-10 formrow p-4">
@@ -135,132 +135,148 @@
             </div>
          </div>
       </div>
-   </section>
+   </section> -->
 
 
 
    <main id="main">
       <!-- ======= About Section ======= -->
       <section id="about" class="about">
-         <div class="container-fluid">
-            <div class="row justify-content-center text-center">
-               <div class="col-lg-8 icon-boxes d-flex flex-column align-items-stretch ">
-                  <h3>ABOUT US</h3>
-                  <p>Compassionate Healthcare
-                     Our mission is to provide you with personalized, high-quality care. We are dedicated to improving
-                     and maintaining your health through preventative care and treating chronic diseases.
-                  </p>
-                  <h5>Experienced Medical Professionals</h5>
-                  <p>calladoctors offers a broad array of services to address today's most common illnesses and
-                     injuries. However, we know there is no one-size-fits-all cure, so we never use a one-size-fits-all
-                     approach to your diagnosis.
-                  </p>
-                  <h5>A Personal Approach</h5>
-                  <p>Our goal is to improve and maintain your overall health and empower you to understand your
-                     condition and wellness plan. So let's get started today on the path to your life-long wellness.
-                  </p>
-               </div>
-            </div>
+   <div class="container-fluid">
+      <div class="row justify-content-center text-center">
+         <div class="col-lg-8 icon-boxes d-flex flex-column align-items-stretch ">
+            <h3>Welcome to Calladoctors</h3>
+            <p>
+               At Calladoctors, we redefine healthcare by bringing it directly to your home. Our mission is to provide accessible and quality medical care through our doctor for home visit services. Whether you’re managing chronic illnesses, recovering from surgery, or simply need a routine check-up, our skilled doctors are here to help. With Calladoctors, you can forget long wait times and travel hassles and get the medical attention you need in the comfort of your own home.
+            </p>
+            <h5>How Calladoctors Works</h5>
+            <p>
+               We believe healthcare should be convenient for everyone. Our doctor on call for home visit service connects you with a highly trained team of doctors. Our medical professionals have hospital training, particularly in caring for critically ill patients in the ICU. They specialize in providing precise diagnoses at home, ensuring better patient management and treatment outcomes.
+            </p>
+            <p>
+               Our ICU doctors and critical care specialists are dedicated to offering high-level intensive care in the most complex situations. Equipped to assess and monitor patients’ conditions, order necessary tests, and develop comprehensive treatment plans, they provide life-saving treatments both at home and in coordination with hospital-based teams when required.
+            </p>
+            <p>
+               The process is simple: just call us to schedule an appointment, and we’ll handle the rest. Our team ensures that you receive the personalized care you deserve, without the stress of travel.
+            </p>
+            <h5>Our Comprehensive Services</h5>
+            <p>We provide a wide range of healthcare services, including:</p>
+            <ul>
+               <li>Nebulisation</li>
+               <li>Sugar Check</li>
+               <li>Injection Administration</li>
+               <li>Dressing / Wound Care</li>
+               <li>Management of Severe Abdominal Pain</li>
+               <li>Relief for Shivering</li>
+               <li>Treatment for High-Grade Fever</li>
+               <li>IV Fluid Therapy</li>
+               <li>Small Stitches</li>
+               <li>Urethral Catheterisation</li>
+               <li>Consultation at Home</li>
+            </ul>
+            <p>
+               Our team is equipped with the latest medical tools to ensure hospital-quality care at your doorstep. We understand the need for regular follow-ups, especially for chronic conditions, so we provide continuous care management to help you recover faster and stay healthy.
+            </p>
+            <h5>Who Needs Home Visits?</h5>
+            <p>
+               Home visits are ideal for individuals with health issues, the elderly needing assistance, or those unable to visit a clinic due to time constraints or lifestyle commitments. Our services are particularly beneficial for patients with chronic illnesses like diabetes, who require regular check-ups but wish to avoid frequent clinic visits. Our board-certified doctors are available 24/7, offering personalized, one-on-one care to comprehensively address your health needs.
+            </p>
+            <p>
+               At Calladoctors, we are committed to delivering compassionate, high-quality care tailored to your needs. Our goal is to ensure you have everything you need to heal comfortably at home, from preventive care to critical support. Trust Calladoctors for home visit services—here for you, whenever you need us.
+            </p>
          </div>
-      </section>
+      </div>
+   </div>
+</section>
+
       <!-- End About Section -->
       <!-- ======= Services Section ======= -->
       <section id="services" class="about">
-         <div class="container-fluid">
-            <div class="row justify-content-center text-center">
-               <div class="col-lg-8 icon-boxes d-flex flex-column align-items-stretch ">
-                  <h3>Our Home Visit Services</h3>
-               </div>
+    <div class="container-fluid">
+        <div class="row justify-content-center text-center">
+            <div class="col-lg-8 icon-boxes d-flex flex-column align-items-stretch">
+                <h3>Our Home Visit Services</h3>
             </div>
-            <div class="row justify-content-center">
-               <div class="col-lg-10">
-                  <div class="row">
-                     <div class="col-lg-3">
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <div class="row">
+                    <div class="col-lg-3">
                         <div class="inner-box">
-                           <div class="absolutetexttop">Representative Image</div>
-                           <img src="assets/img/1.jpg" alt="" class="img-fluid">
-                           <p class="text-center mt-2">Nebulisation</p>
+                            <img src="assets/img/1.jpg" alt="" class="img-fluid">
+                            <p class="text-center mt-2">Nebulisation</p>
                         </div>
-                     </div>
-                     <div class="col-lg-3">
+                    </div>
+                    <div class="col-lg-3">
                         <div class="inner-box">
-                           <div class="absolutetexttop">Representative Image</div>
-                           <img src="assets/img/2.jpg" alt="" class="img-fluid">
-                           <p class="text-center mt-2">Sugar Check</p>
+                            <img src="assets/img/2.jpg" alt="" class="img-fluid">
+                            <p class="text-center mt-2">Sugar Check</p>
                         </div>
-                     </div>
-                     <div class="col-lg-3">
+                    </div>
+                    <div class="col-lg-3">
                         <div class="inner-box">
-                           <div class="absolutetexttop">Representative Image</div>
-                           <img src="assets/img/3.jpg" alt="" class="img-fluid">
-                           <p class="text-center mt-2">Injection</p>
+                            <img src="assets/img/3.jpg" alt="" class="img-fluid">
+                            <p class="text-center mt-2">Injection</p>
                         </div>
-                     </div>
-                     <div class="col-lg-3">
+                    </div>
+                    <div class="col-lg-3">
                         <div class="inner-box">
-                           <div class="absolutetexttop">Representative Image</div>
-                           <img src="assets/img/4.jpg" alt="" class="img-fluid">
-                           <p class="text-center mt-2">Dressing / Wound Care</p>
+                            <img src="assets/img/4.jpg" alt="" class="img-fluid">
+                            <p class="text-center mt-2">Dressing / Wound Care</p>
                         </div>
-                     </div>
-                  </div>
-                  <div class="row justify-content-center">
-                     <div class="col-lg-3">
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-3">
                         <div class="inner-box">
-                           <div class="absolutetexttop">Representative Image</div>
-                           <img src="assets/img/5.jpg" alt="" class="img-fluid">
-                           <p class="text-center mt-2">Severe Abdomain Pain</p>
+                            <img src="assets/img/5.jpg" alt="" class="img-fluid">
+                            <p class="text-center mt-2">Severe Abdominal Pain</p>
                         </div>
-                     </div>
-                     <div class="col-lg-3">
+                    </div>
+                    <div class="col-lg-3">
                         <div class="inner-box">
-                           <div class="absolutetexttop">Representative Image</div>
-                           <img src="assets/img/6.jpg" alt="" class="img-fluid">
-                           <p class="text-center mt-2">Shivering</p>
+                            <img src="assets/img/6.jpg" alt="" class="img-fluid">
+                            <p class="text-center mt-2">Shivering</p>
                         </div>
-                     </div>
-                     <div class="col-lg-3">
+                    </div>
+                    <div class="col-lg-3">
                         <div class="inner-box">
-                           <div class="absolutetexttop">Representative Image</div>
-                           <img src="assets/img/7.jpg" alt="" class="img-fluid">
-                           <p class="text-center mt-2">High Grade Fever</p>
+                            <img src="assets/img/7.jpg" alt="" class="img-fluid">
+                            <p class="text-center mt-2">High Grade Fever</p>
                         </div>
-                     </div>
-                     <div class="col-lg-3">
+                    </div>
+                    <div class="col-lg-3">
                         <div class="inner-box">
-                           <div class="absolutetexttop">Representative Image</div>
-                           <img src="assets/img/8.jpg" alt="" class="img-fluid">
-                           <p class="text-center mt-2">IV Fluid</p>
+                            <img src="assets/img/8.jpg" alt="" class="img-fluid">
+                            <p class="text-center mt-2">IV Fluid</p>
                         </div>
-                     </div>
-                  </div>
-                  <div class="row justify-content-center">
-                     <div class="col-lg-3">
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-lg-3">
                         <div class="inner-box">
-                           <div class="absolutetexttop">Representative Image</div>
-                           <img src="assets/img/9.jpg" alt="" class="img-fluid">
-                           <p class="text-center mt-2">Small Stitches</p>
+                            <img src="assets/img/9.jpg" alt="" class="img-fluid">
+                            <p class="text-center mt-2">Small Stitches</p>
                         </div>
-                     </div>
-                     <div class="col-lg-3">
+                    </div>
+                    <div class="col-lg-3">
                         <div class="inner-box">
-                           <div class="absolutetexttop">Representative Image</div>
-                           <img src="assets/img/10.jpg" alt="" class="img-fluid">
-                           <p class="text-center mt-2">Urethral Catheterisation</p>
+                            <img src="assets/img/10.jpg" alt="" class="img-fluid">
+                            <p class="text-center mt-2">Urethral Catheterisation</p>
                         </div>
-                     </div>
-                     <div class="col-lg-3">
+                    </div>
+                    <div class="col-lg-3">
                         <div class="inner-box">
-                           <div class="absolutetexttop">Representative Image</div>
-                           <img src="assets/img/11.jpg" alt="" class="img-fluid">
-                           <p class="text-center mt-2">Consulting at Home</p>
+                            <img src="assets/img/11.jpg" alt="" class="img-fluid">
+                            <p class="text-center mt-2">Consulting at Home</p>
                         </div>
-                     </div>
-                  </div>
-               </div>
+                    </div>
+                </div>
             </div>
-         </div>
-      </section>
+        </div>
+    </div>
+</section>
+
       <!-- End Services Section -->
       <!-- ======= Features Section ======= -->
       <section id="ctS" class="features">
@@ -475,45 +491,34 @@
       <!-- End F.A.Q Section -->
       <!-- ======= Contact Section ======= -->
       <section id="location" class="contact">
-         <div class="container">
-            <div class="section-title" data-aos="fade-up">
-               <h2>Location</h2>
-               <p>Find us on Google </p>
-            </div>
-            <div class="row">
-               <div class="col-lg-4" data-aos="fade-right" data-aos-delay="100">
-                  <div class="info">
-                     <div class="address">
-                        <i class="bi bi-geo-alt"></i>
-                        <h4>Location:</h4>
-                        <p>Shop No. 7 Ground Floor, Okaz Shopping Center, Millat Nagar Rd, Andheri West, Mumbai,
-                           Maharashtra 400053
-                        </p>
-                     </div>
-                     <!-- <div class="phone">
-                           <i class="bi bi-phone"></i>
-
-                           <h4>Call:</h4>
-
-                           <p> <a href="tel: +918657965005">+918446304550</a></p>
-
-                           </div> -->
-                     <div class="phone">
-                        <i class="bi bi-phone"></i>
-                        <h4>Call:</h4>
-                        <p> <a href="tel: +918657965005">+918657965005</a></p>
-                     </div>
-                  </div>
+   <div class="container">
+      <div class="section-title" data-aos="fade-up">
+         <h2>Location</h2>
+         <p>We are serving various locations in Mumbai</p>
+      </div>
+      <div class="row">
+         <div class="col-lg-4" data-aos="fade-right" data-aos-delay="100">
+            <div class="info">
+               <div class="address">
+                  <i class="bi bi-geo-alt"></i>
+                  <h4>Our Locations:</h4>
+                  <p>We serve across Andheri, Bandra, and all over Mumbai.</p>
                </div>
-               <div class="col-lg-8 mt-5 mt-lg-0" data-aos="fade-left" data-aos-delay="200">
-                  <div><iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15076.04782457048!2d72.8180371452886!3d19.15095392472861!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b7e7d5fd3f33%3A0xcf74690c96c063e!2sAl%20Shifa%20Clinic%20%7C%20Doctor%20on%20Call%20for%20Home%20Visit!5e0!3m2!1sen!2sin!4v1648191329636!5m2!1sen!2sin"
-                        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+               <div class="phone">
+                  <i class="bi bi-phone"></i>
+                  <h4>Call:</h4>
+                  <p><a href="tel:+918657965005">+918657965005</a></p>
                </div>
             </div>
          </div>
-      </section>
+         <div class="col-lg-8 mt-5 mt-lg-0" data-aos="fade-left" data-aos-delay="200">
+            <!-- Map is hidden as requested -->
+            <p>We provide healthcare services across various areas in Mumbai. Call us to schedule a home visit in your locality.</p>
+         </div>
+      </div>
+   </div>
+</section>
+
       <!-- End Contact Section -->
       <section id="location" class="contact">
          <div class="container">
@@ -596,16 +601,13 @@
       <div class="container">
 
          <div class="copyright">
-            &copy; Copyright <strong><span>Al Shifa Clinic</span></strong>. All Rights Reserved
+            &copy; Copyright <strong><span>CallaDoctors</span></strong>. All Rights Reserved
          </div>
          <div class="credits">
             Designed & Developed by <a href="#">Prince Chaurasiya</a>
          </div>
          <div class="credits">
-            <span>This website is managed by Al Shifa Clinic, and the owner is Dr. Gufran Khan. We provide home visit
-               services. All images used here are for representation purposes only and do not belong to the actual
-               image. Any data shared by you is not shared with any third party and is not used for marketing
-               purposes.</span>
+            <span>This website is managed by CallaDoctors</span>
          </div>
 
       </div>
